@@ -10,9 +10,7 @@ Welcome to **Chess Master**, it is a comprehensive web application that offers v
 ![Chess Master](https://chess-frontend-dun.vercel.app/chess.jpeg)
 
 
-## 📢 Important!
-This repository contains only the **frontend** code.  
-For the backend API, visit: **[Chess Master Backend](https://github.com/itxnargis/chess-backend)**.
+
 
 ---
 
